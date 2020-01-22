@@ -30,7 +30,7 @@
                 "\t</body>",
                 "</html>"
             ],
-            "description": "My version of the html skeleton"
+            "description": "My version of the html skeleton, with a css link and JavaScript script tag."
         },
         
         "HTML Skeleton": {
@@ -67,6 +67,6 @@
             "\t</body>",
             "</html>"
         ],
-        "description": "My version of the html skeleton"
-    },
+        "description": "My version of the html skeleton, with a CSS link"
+    }
 }
