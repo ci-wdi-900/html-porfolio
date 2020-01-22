@@ -4,10 +4,6 @@
 
 What we'll be doing here is converting our markdown portfolio to html. We should be able to take advantage of the extra features of html to make it extra awesome!
 
-```html
-<h1>Hello</h1>
-```
-
 
 ### Setup
 
