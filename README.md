@@ -20,4 +20,4 @@ If you didn't make a Markdown portfolio, then you can start at the beginning, ei
    - An image with a set width attribute, so that it has a different size than the original file.
    - A centered heading. Probably best if it's the first-level one.
 3. If you're feeling brave, add some CSS for styling and layout. You'll have to do some research if you're not yet familiar with CSS syntax, but we'll be learning it soon.
-4. Expand further as you see fit!
+4. Expand the content further as you see fit!
